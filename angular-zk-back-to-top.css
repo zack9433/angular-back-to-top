@@ -1,3 +1,7 @@
+.hide {
+  display: none !important;
+}
+
 .zk-back-to-top {
   position: fixed;
   bottom: 40px;
