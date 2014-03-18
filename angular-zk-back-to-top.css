@@ -1,4 +1,4 @@
-.angular-zk-back-to-top {
+.zk-back-to-top {
   position: fixed;
   bottom: 40px;
   left: 15px;
@@ -6,7 +6,7 @@
   cursor: pointer;
 }
 
-.angular-zk-back-to-top__btn--head {
+.zk-back-to-top__btn--head {
   height: 0;
   width: 0;
   border-bottom: 30px solid #bbb;
@@ -14,14 +14,14 @@
   border-right: 15px solid transparent;
 }
 
-.angular-zk-back-to-top__btn--tail {
+.zk-back-to-top__btn--tail {
   width: 10px;
   height: 10px;
   background-color: #bbb;
   margin: auto;
 }
 
-.angular-zk-back-to-top__btn--tail:after {
+.zk-back-to-top__btn--tail:after {
   content: 'BACK';
   color: #bbb;
   font-size: 12px;
