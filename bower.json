@@ -1,0 +1,28 @@
+{
+  "name": "angular-zk-notify",
+  "version": "0.0.1",
+  "homepage": "https://github.com/zack9433/angular-back-to-top.git",
+  "description": "Back to top button for Angular.js applications",
+  "main": "angular-zk-back-to-top.js",
+  "keywords": [
+    "angular.js",
+    "back to top",
+    "scroll to top",
+    "scrolltop",
+    "scroll"
+  ],
+  "authors": [
+    "Zack Yang"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "demo.html",
+    "Gruntfile.js"
+  ],
+  "dependencies": {
+    "angular": "~1"
+  }
+}
