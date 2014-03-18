@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('angular-zk-back-to-top', [])
+angular.module('zkBackToTop', [])
   .directive('zkBackToTop', function () {
     return {
       template: '<div class="zk-back-to-top hide">' +
